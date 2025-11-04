@@ -1,0 +1,10 @@
+- A Smart Contract-based Management System for  Advance Receipts and Accounts Receivable.pdf
+- A Smart Contract-based Management System for  Advance Receipts and Accounts Receivable.pptx
+- Deepseek幻觉评测与分析.pptx
+- Design of an online trading platform mechanism based on blockchain technology in China.pdf
+- Design of an online trading platform mechanism based on blockchain technology in China.pptx
+- Eliminating Zero-Yuan Purchases Finding, Cracking, and Fixing Common Vulnerabilities in Shopping Websites.pdf
+- Eliminating Zero-Yuan Purchases Finding, Cracking, and Fixing Common Vulnerabilities in Shopping Websites.pptx
+- Intelligent-Matching Shared Parking Space Application - Parking Link.pptx
+- MINISO-Life Is for Fun.pptx
+- Report_Nur - Provider of Autonomous Driving and Last-mile Delivery Solutions.pdf
