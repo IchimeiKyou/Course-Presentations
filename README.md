@@ -1,10 +1,24 @@
-- A Smart Contract-based Management System for  Advance Receipts and Accounts Receivable.pdf
-- A Smart Contract-based Management System for  Advance Receipts and Accounts Receivable.pptx
-- Deepseek幻觉评测与分析.pptx
-- Design of an online trading platform mechanism based on blockchain technology in China.pdf
-- Design of an online trading platform mechanism based on blockchain technology in China.pptx
-- Eliminating Zero-Yuan Purchases Finding, Cracking, and Fixing Common Vulnerabilities in Shopping Websites.pdf
-- Eliminating Zero-Yuan Purchases Finding, Cracking, and Fixing Common Vulnerabilities in Shopping Websites.pptx
-- Intelligent-Matching Shared Parking Space Application - Parking Link.pptx
-- MINISO-Life Is for Fun.pptx
-- Report_Nur - Provider of Autonomous Driving and Last-mile Delivery Solutions.pdf
+- **Introduction to Fintech** (フィンテック入門/金融科技导论)
+  - Design of an online trading platform mechanism based on blockchain technology in China.pdf
+  - Design of an online trading platform mechanism based on blockchain technology in China.pptx
+  - 中国におけるブロックチェーン技術に基づくオンライン取引プラットフォームの設計
+- **Block Chain and Digital Currency** (ブロックチェーンとデジタル通貨/区块链与加密货币)
+  - A Smart Contract-based Management System for Advance Receipts and Accounts Receivable.pdf
+  - A Smart Contract-based Management System for  Advance Receipts and Accounts Receivable.pptx
+  - 前受金・売掛金のスマートコントラクトベース管理システム
+- **Social Research Methods** (社会調査方法/社会研究方法)
+  - Deepseek幻觉评测与分析.pptx
+  - Deepseek 幻覚評価と分析
+- **Information Security** (情報セキュリティ/信息安全)
+  - Eliminating Zero-Yuan Purchases Finding, Cracking, and Fixing Common Vulnerabilities in Shopping Websites.pdf
+  - Eliminating Zero-Yuan Purchases Finding, Cracking, and Fixing Common Vulnerabilities in Shopping Websites.pptx
+  - ゼロ円購入の排除：ショッピングサイトの一般的な脆弱性の発見、解析、修正
+- **Managing Information System** (情報システム管理/管理信息系统)
+  - Intelligent-Matching Shared Parking Space Application - Parking Link.pptx
+  - インテリジェントマッチング共有駐車スペースアプリ - Parking Link
+- **Corporate Finance** (企業財務/公司金融)
+  - MINISO-Life Is for Fun.pptx
+  - MINISO - 人生は楽しむためにある
+- **Entrepreneurial Finance** (起業家向けファイナンス/创业金融)
+  - Nuro - Provider of Autonomous Driving and Last-mile Delivery Solutions.pdf
+  - Nuro - 自動運転とラストマイル配送ソリューションの提供者
