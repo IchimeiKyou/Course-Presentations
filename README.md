@@ -2,23 +2,30 @@
   - Design of an online trading platform mechanism based on blockchain technology in China.pdf
   - Design of an online trading platform mechanism based on blockchain technology in China.pptx
   - 中国におけるブロックチェーン技術に基づくオンライン取引プラットフォームの設計
+  - 役割：独自設計・独自開発
 - **Block Chain and Digital Currency** (ブロックチェーンとデジタル通貨/区块链与加密货币)
   - A Smart Contract-based Management System for Advance Receipts and Accounts Receivable.pdf
   - A Smart Contract-based Management System for  Advance Receipts and Accounts Receivable.pptx
   - 前受金・売掛金のスマートコントラクトベース管理システム
+  - 役割：プロダクトデザイン
 - **Social Research Methods** (社会調査方法/社会研究方法)
   - Deepseek幻觉评测与分析.pptx
   - Deepseek 幻覚評価と分析
+  - 役割：チームリーダー、生成AIモデルの幻覚評価データおよび検出パイプライン構築
 - **Information Security** (情報セキュリティ/信息安全)
   - Eliminating Zero-Yuan Purchases Finding, Cracking, and Fixing Common Vulnerabilities in Shopping Websites.pdf
   - Eliminating Zero-Yuan Purchases Finding, Cracking, and Fixing Common Vulnerabilities in Shopping Websites.pptx
   - ゼロ円購入の排除：ショッピングサイトの一般的な脆弱性の発見、解析、修正
+  - 役割：チームリーダー、プロダクトデザイン
 - **Managing Information System** (情報システム管理/管理信息系统)
   - Intelligent-Matching Shared Parking Space Application - Parking Link.pptx
   - インテリジェントマッチング共有駐車スペースアプリ - Parking Link
+  - 役割：チームリーダー、プロダクトデザイン
 - **Corporate Finance** (企業財務/公司金融)
   - MINISO-Life Is for Fun.pptx
   - MINISO - 人生は楽しむためにある
+  - 役割：企業業務・財務分析
 - **Entrepreneurial Finance** (起業家向けファイナンス/创业金融)
   - Nuro - Provider of Autonomous Driving and Last-mile Delivery Solutions.pdf
   - Nuro - 自動運転とラストマイル配送ソリューションの提供者
+  - 役割：チームリーダー、企業業務分析
