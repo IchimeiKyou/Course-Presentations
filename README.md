@@ -10,6 +10,7 @@
   - 役割：プロダクトデザイン
 - **Social Research Methods** (社会調査方法/社会研究方法)
   - Deepseek幻觉评测与分析.pptx
+  - Deepseek幻觉评测与分析.pdf
   - Deepseek 幻覚評価と分析
   - 役割：チームリーダー、生成AIモデルの幻覚評価データおよび検出パイプライン構築
 - **Information Security** (情報セキュリティ/信息安全)
