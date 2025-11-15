@@ -1,32 +1,33 @@
 - **Introduction to Fintech** (フィンテック入門/金融科技导论)
-  - Design of an online trading platform mechanism based on blockchain technology in China.pdf
-  - Design of an online trading platform mechanism based on blockchain technology in China.pptx
+  - [Design of an online trading platform mechanism based on blockchain technology in China.pdf](https://github.com/IchimeiKyou/Course-Presentations/blob/main/Design%20of%20an%20online%20trading%20platform%20mechanism%20based%20on%20blockchain%20technology%20in%20China.pdf)
+  - [Design of an online trading platform mechanism based on blockchain technology in China.pptx](https://github.com/IchimeiKyou/Course-Presentations/blob/main/Design%20of%20an%20online%20trading%20platform%20mechanism%20based%20on%20blockchain%20technology%20in%20China.pptx)
   - 中国におけるブロックチェーン技術に基づくオンライン取引プラットフォームの設計
   - 役割：独自設計・独自開発
 - **Block Chain and Digital Currency** (ブロックチェーンとデジタル通貨/区块链与加密货币)
-  - A Smart Contract-based Management System for Advance Receipts and Accounts Receivable.pdf
-  - A Smart Contract-based Management System for  Advance Receipts and Accounts Receivable.pptx
+  - [A Smart Contract-based Management System for Advance Receipts and Accounts Receivable.pdf](https://github.com/IchimeiKyou/Course-Presentations/blob/main/A%20Smart%20Contract-based%20Management%20System%20for%20%20Advance%20Receipts%20and%20Accounts%20Receivable.pdf)
+  - [A Smart Contract-based Management System for  Advance Receipts and Accounts Receivable.pptx](https://github.com/IchimeiKyou/Course-Presentations/blob/main/A%20Smart%20Contract-based%20Management%20System%20for%20%20Advance%20Receipts%20and%20Accounts%20Receivable.pptx)
   - 前受金・売掛金のスマートコントラクトベース管理システム
   - 役割：プロダクトデザイン
 - **Social Research Methods** (社会調査方法/社会研究方法)
-  - Deepseek幻觉评测与分析.pptx
-  - Deepseek幻觉评测与分析.pdf
+  - [Deepseek幻觉评测与分析.pptx](https://github.com/IchimeiKyou/Course-Presentations/blob/main/Deepseek%E5%B9%BB%E8%A7%89%E8%AF%84%E6%B5%8B%E4%B8%8E%E5%88%86%E6%9E%90.pptx)
+  - [Deepseek幻觉评测与分析.pdf](https://github.com/IchimeiKyou/Course-Presentations/blob/main/Deepseek%E5%B9%BB%E8%A7%89%E8%AF%84%E6%B5%8B%E4%B8%8E%E5%88%86%E6%9E%90.pdf)
   - Deepseek 幻覚評価と分析
   - 役割：チームリーダー、生成AIモデルの幻覚評価データおよび検出パイプライン構築
 - **Information Security** (情報セキュリティ/信息安全)
-  - Eliminating Zero-Yuan Purchases Finding, Cracking, and Fixing Common Vulnerabilities in Shopping Websites.pdf
-  - Eliminating Zero-Yuan Purchases Finding, Cracking, and Fixing Common Vulnerabilities in Shopping Websites.pptx
+  - [Eliminating Zero-Yuan Purchases Finding, Cracking, and Fixing Common Vulnerabilities in Shopping Websites.pdf](https://github.com/IchimeiKyou/Course-Presentations/blob/main/Eliminating%20Zero-Yuan%20Purchases%20Finding%2C%20Cracking%2C%20and%20Fixing%20Common%20Vulnerabilities%20in%20Shopping%20Websites.pdf)
+  - [Eliminating Zero-Yuan Purchases Finding, Cracking, and Fixing Common Vulnerabilities in Shopping Websites.pptx](https://github.com/IchimeiKyou/Course-Presentations/blob/main/Eliminating%20Zero-Yuan%20Purchases%20Finding%2C%20Cracking%2C%20and%20Fixing%20Common%20Vulnerabilities%20in%20Shopping%20Websites.pptx)
   - ゼロ円購入の排除：ショッピングサイトの一般的な脆弱性の発見、解析、修正
   - 役割：チームリーダー、プロダクトデザイン
 - **Managing Information System** (情報システム管理/管理信息系统)
-  - Intelligent-Matching Shared Parking Space Application - Parking Link.pptx
+  - [Intelligent-Matching Shared Parking Space Application - Parking Link.pptx](https://github.com/IchimeiKyou/Course-Presentations/blob/main/Intelligent-Matching%20Shared%20Parking%20Space%20Application%20-%20Parking%20Link.pptx)
   - インテリジェントマッチング共有駐車スペースアプリ - Parking Link
   - 役割：チームリーダー、プロダクトデザイン
 - **Corporate Finance** (企業財務/公司金融)
-  - MINISO-Life Is for Fun.pptx
+  - [MINISO-Life Is for Fun.pptx](https://github.com/IchimeiKyou/Course-Presentations/blob/main/MINISO-Life%20Is%20for%20Fun.pptx)
   - MINISO - 人生は楽しむためにある
   - 役割：企業業務・財務分析
 - **Entrepreneurial Finance** (起業家向けファイナンス/创业金融)
-  - Nuro - Provider of Autonomous Driving and Last-mile Delivery Solutions.pdf
+  - [Nuro Report - Provider of Autonomous Driving and Last-mile Delivery Solutions.pdf](https://github.com/IchimeiKyou/Course-Presentations/blob/main/Report_Nur%20-%20Provider%20of%20Autonomous%20Driving%20and%20Last-mile%20Delivery%20Solutions.pdf)
+  - [Nuro Slide - Provider of Autonomous Driving and Last-mile Delivery Solutions.pdf](https://github.com/IchimeiKyou/Course-Presentations/blob/main/Slides_Nur%20-%20Provider%20of%20Autonomous%20Driving%20and%20Last-mile%20Delivery%20Solutions.pdf)
   - Nuro - 自動運転とラストマイル配送ソリューションの提供者
   - 役割：チームリーダー、企業業務分析
